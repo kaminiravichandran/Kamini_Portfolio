@@ -10,7 +10,7 @@ Outside of work I have learnt Carnatic Music for 12 years and upload my own song
 
 ## My Resume
 Here is a link to my resume for a professional overview.
-[My Resume](https://kaminiravichandran.github.io/Resume/)
+[My Resume](https://kaminiravichandran.github.io/My-Resume/)
 
 
 ## My Projects
