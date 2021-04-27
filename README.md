@@ -9,7 +9,7 @@ I began my career with the idea of building something which would add value to p
 Outside of work I have learnt Carnatic Music for 12 years and upload my own song videos on my Instagram page 'kamikaze_vibes'. I recently started learning Mixed Martial arts and also love volunteering for the Infinity Lions Club to do my bit for a more positive society.
 
 ## My Resume
-Here is a link to my resume for a professional overview.
+Here is a link to my resume for a professional overview : 
 [My Resume](https://kaminiravichandran.github.io/My-Resume/)
 
 
@@ -17,10 +17,18 @@ Here is a link to my resume for a professional overview.
 This repository holds all of the projects I have done over the years. I have created to Portfolios for my two main areas of interest : Data Science and Business Intelligence.
 
 [1. My Data Science Portfolio](https://kaminiravichandran.github.io/Kamini_Data_Science_Portfolio/)
+
 [2. My Business Intelligence Portfolio](https://kaminiravichandran.github.io/Kamini-Business-Intelligence-Portfolio/)
 
 ## My Contact
 You can find me here!
+[LinkedIn: ](https://www.linkedin.com/in/kaminiravichandran/)
+
+[Github: ](https://github.com/kaminiravichandran)
+
+Email: kamini.ravichandran5@gmail.com
+
+Phone: +1 214-604-5272
 
 
 
