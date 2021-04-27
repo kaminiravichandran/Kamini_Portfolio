@@ -22,9 +22,10 @@ This repository holds all of the projects I have done over the years. I have cre
 
 ## My Contact
 You can find me here!
-[LinkedIn: ](https://www.linkedin.com/in/kaminiravichandran/)
 
-[Github: ](https://github.com/kaminiravichandran)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/kaminiravichandran/)
+
+GitHub: [Github](https://github.com/kaminiravichandran)
 
 Email: kamini.ravichandran5@gmail.com
 
