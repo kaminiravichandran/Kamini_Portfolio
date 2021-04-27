@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img width="600" height="200" src="/Portfolio%20Images/Kamini%20professional%20photo%20final.png">
+  <img src="/Portfolio%20Images/Kamini%20professional%20photo%20final.png">
 </p>
 
 ![](/Portfolio%20Images/Kamini%20professional%20photo%20final.png)
