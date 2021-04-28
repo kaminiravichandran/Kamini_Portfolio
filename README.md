@@ -1,5 +1,3 @@
-# Kamini_Ravichandran_Portfolio
-
 ## ABOUT ME
 
 ![](/Portfolio%20Images/Kamini%20professional%20photo%20best.png)
