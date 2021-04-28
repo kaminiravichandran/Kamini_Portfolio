@@ -26,11 +26,13 @@ You can find me here!
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kaminiravichandran/)
 
-GitHub: [Github](https://github.com/kaminiravichandran)
+GitHub: [Github Projects](https://github.com/kaminiravichandran)
+
+Instagram: [My music channel](https://www.instagram.com/kamikaze_vibes/)
 
 Email: kamini.ravichandran5@gmail.com
 
-Phone: +1 214-604-5272
+Phone: +1 (214)-604-5272
 
 
 
