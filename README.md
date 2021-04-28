@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-![Kamini_UTD_Photo_adobespark (1)](https://user-images.githubusercontent.com/69264932/116331116-b0e92580-a794-11eb-874f-cf4f2c3d5950.jpg)
+![Kamini_UTD_Photo_adobespark (2)](https://user-images.githubusercontent.com/69264932/116331258-f86fb180-a794-11eb-9c7c-f93018c90b8e.jpg)
 
 
 Hi! I am Kamini Ravichandran, a Masters student in Business Analytics at the University of Texas at Dallas with a prior bachelors in Engineering. 
